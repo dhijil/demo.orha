@@ -1,2 +1,2 @@
 Student Name: Rahul
-Course: JavaScript
+Course: Python
