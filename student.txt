@@ -1,2 +1,0 @@
-Student Name: Rahul
-Course: Java
